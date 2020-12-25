@@ -1,0 +1,29 @@
+{
+  "name": "kata-duplicate-remove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r ts-node/register ./test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leand3k/kata-duplicate-remove.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leand3k/kata-duplicate-remove/issues"
+  },
+  "homepage": "https://github.com/Leand3k/kata-duplicate-remove#readme",
+  "devDependencies": {
+    "@types/chai": "^4.2.14",
+    "@types/mocha": "^8.2.0",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "ts-node": "^9.1.1",
+    "typings": "^2.1.1"
+  }
+
+  
+}
